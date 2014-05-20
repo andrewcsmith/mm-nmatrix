@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/mm/nmatrix
+lib/mm/nmatrix.rb
+test/test_mm/nmatrix.rb
