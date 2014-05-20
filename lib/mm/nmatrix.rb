@@ -1,5 +1,6 @@
 require 'mm'
 require 'nmatrix'
+require 'mm/nmatrix'
 
 module MM; end
 
